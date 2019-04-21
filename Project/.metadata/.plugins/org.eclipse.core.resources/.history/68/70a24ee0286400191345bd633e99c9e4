@@ -1,0 +1,10 @@
+
+public class Hero {
+	int Death; //死亡
+	int Killed; //击杀
+	int Assit; //助攻
+	float gold; //金钱
+	int Objects_number; //补刀数
+	float attack_speed; //攻击速度
+	String KilledString, DeathString;//杀人后说的话和被杀后说的话
+}
